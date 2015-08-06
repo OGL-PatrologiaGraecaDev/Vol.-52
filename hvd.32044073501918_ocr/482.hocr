@@ -1,0 +1,8 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/52/hvd.32044073501918/482.png"; bbox 0 0 2029 3111; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1119 331 1627 370">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1119 331 1627 370">
+     <span class='ocr_line' id='line_1_1' title="bbox 1119 331 1627 370; baseline 0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1119 331 1143 368; x_wconf 89' lang='lat'><em>3</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1176 331 1286 368; x_wconf 89' lang='lat'>2044</span> <span class='ocrx_word' id='word_1_3' title='bbox 1318 332 1399 369; x_wconf 88' lang='lat'>073</span> <span class='ocrx_word' id='word_1_4' title='bbox 1432 333 1506 370; x_wconf 92' lang='lat'>501</span> <span class='ocrx_word' id='word_1_5' title='bbox 1546 333 1627 370; x_wconf 89' lang='lat'>918</span> 
+     </span>
+    </p>
+   </div>
+  </div>
